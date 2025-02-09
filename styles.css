@@ -9,3 +9,15 @@
     body {
     font-family: "PrStart", "Arial", sans-serif;
 }
+
+.container {
+    max-width: 600px; /* Ограничиваем ширину контейнера */
+    text-align: center; /* Выравниваем текст по центру */
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1, p {
+    margin: 0; /* Сбрасываем внешние отступы */
+}
