@@ -3,8 +3,8 @@
     font-style: normal;
     font-weight: 400;
     src: local("PrStart"),
-            url("/fonts/PrStart.ttf") format("truetype"),
-            url("/fonts/PrStart.ttf") format("truetype");
+            url("https://rediskazavr/synergy-engine-site/fonts/PrStart.ttf") format("truetype"),
+            url("https://rediskazavr.github.io/synergy-engine-site/fonts/PrStart.ttf") format("truetype");
 }
     body {
     font-family: "PrStart", "Arial", sans-serif;
