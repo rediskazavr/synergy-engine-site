@@ -3,7 +3,7 @@
     font-style: normal;
     font-weight: 400;
     src: local("PrStart"),
-            url("https://rediskazavr/synergy-engine-site/fonts/PrStart.ttf") format("truetype"),
+            url("https://rediskazavr.github.io/synergy-engine-site/fonts/PrStart.ttf") format("truetype"),
             url("https://rediskazavr.github.io/synergy-engine-site/fonts/PrStart.ttf") format("truetype");
 }
     body {
